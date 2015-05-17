@@ -7,6 +7,12 @@
             "email": "aykutaras@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/aykutaras/composer-sample"
+        }
+    ]
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0"
